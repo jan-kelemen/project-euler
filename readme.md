@@ -6,3 +6,6 @@ Project Euler (https://projecteuler.net/) soultions in various programming langu
 ####Problem 1: Multiples of 3 and 5
 	*Date: 7-2-2015
 	*Language: Python
+####Problem 2: Even Fibonacci numbers
+	*Date: 8-2-2015
+	*Language: C++
