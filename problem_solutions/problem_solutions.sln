@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "002_cpp_even_fibonacci_numb
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "003_py_largest_prime_factor", "003_py_largest_prime_factor\003_py_largest_prime_factor.pyproj", "{447B8C6C-3BC7-44DF-ABFC-FB1BA6C728C2}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "004_cpp_largest_palindrome_product", "004_cpp_largest_palindrome_product\004_cpp_largest_palindrome_product.vcxproj", "{BBF944DD-74F8-40DF-8C03-899360BC510F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -49,6 +51,16 @@ Global
 		{447B8C6C-3BC7-44DF-ABFC-FB1BA6C728C2}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{447B8C6C-3BC7-44DF-ABFC-FB1BA6C728C2}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{447B8C6C-3BC7-44DF-ABFC-FB1BA6C728C2}.Release|Win32.ActiveCfg = Release|Any CPU
+		{BBF944DD-74F8-40DF-8C03-899360BC510F}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{BBF944DD-74F8-40DF-8C03-899360BC510F}.Debug|Mixed Platforms.ActiveCfg = Debug|Win32
+		{BBF944DD-74F8-40DF-8C03-899360BC510F}.Debug|Mixed Platforms.Build.0 = Debug|Win32
+		{BBF944DD-74F8-40DF-8C03-899360BC510F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BBF944DD-74F8-40DF-8C03-899360BC510F}.Debug|Win32.Build.0 = Debug|Win32
+		{BBF944DD-74F8-40DF-8C03-899360BC510F}.Release|Any CPU.ActiveCfg = Release|Win32
+		{BBF944DD-74F8-40DF-8C03-899360BC510F}.Release|Mixed Platforms.ActiveCfg = Release|Win32
+		{BBF944DD-74F8-40DF-8C03-899360BC510F}.Release|Mixed Platforms.Build.0 = Release|Win32
+		{BBF944DD-74F8-40DF-8C03-899360BC510F}.Release|Win32.ActiveCfg = Release|Win32
+		{BBF944DD-74F8-40DF-8C03-899360BC510F}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

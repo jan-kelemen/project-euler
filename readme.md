@@ -15,3 +15,7 @@ Project Euler (https://projecteuler.net/) soultions in various programming langu
 	*Date: 8-2-2015
 	*Language: Python
 	*Answer: 6857 
+####Problem 4: Largest palindrome product
+	*Date: 8-2-2015
+	*Language: C++
+	*Answer: 906609
