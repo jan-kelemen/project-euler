@@ -27,3 +27,7 @@ Project Euler (https://projecteuler.net/) soultions in various programming langu
 	*Date: 11-2-2015
 	*Language: Python
 	*Answer: 25164150
+####Problem 7: 10001st prime
+	*Date: 12-2-2015
+	*Language: Python
+	*Answer: 104743
