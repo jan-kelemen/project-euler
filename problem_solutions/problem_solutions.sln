@@ -18,6 +18,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		..\readme.md = ..\readme.md
 	EndProjectSection
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "006_py_sum_square_difference", "006_py_sum_square_difference\006_py_sum_square_difference.pyproj", "{4CF1F457-81A2-488B-863E-3D71BD127B73}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -78,6 +80,16 @@ Global
 		{04CE7983-E2D3-423C-9F37-6B9CB4BAFDE2}.Release|Mixed Platforms.Build.0 = Release|Win32
 		{04CE7983-E2D3-423C-9F37-6B9CB4BAFDE2}.Release|Win32.ActiveCfg = Release|Win32
 		{04CE7983-E2D3-423C-9F37-6B9CB4BAFDE2}.Release|Win32.Build.0 = Release|Win32
+		{4CF1F457-81A2-488B-863E-3D71BD127B73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CF1F457-81A2-488B-863E-3D71BD127B73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CF1F457-81A2-488B-863E-3D71BD127B73}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{4CF1F457-81A2-488B-863E-3D71BD127B73}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{4CF1F457-81A2-488B-863E-3D71BD127B73}.Debug|Win32.ActiveCfg = Debug|Any CPU
+		{4CF1F457-81A2-488B-863E-3D71BD127B73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CF1F457-81A2-488B-863E-3D71BD127B73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CF1F457-81A2-488B-863E-3D71BD127B73}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{4CF1F457-81A2-488B-863E-3D71BD127B73}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{4CF1F457-81A2-488B-863E-3D71BD127B73}.Release|Win32.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

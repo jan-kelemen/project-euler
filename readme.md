@@ -23,3 +23,7 @@ Project Euler (https://projecteuler.net/) soultions in various programming langu
 	*Date: 11-2-2015
 	*Language: C++
 	*Answer: 232792560
+####Problem 6: Sum square difference
+	*Date: 11-2-2015
+	*Language: Python
+	*Answer: 25164150
