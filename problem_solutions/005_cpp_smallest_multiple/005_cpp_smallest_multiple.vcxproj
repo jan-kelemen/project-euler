@@ -11,8 +11,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{BBF944DD-74F8-40DF-8C03-899360BC510F}</ProjectGuid>
-    <RootNamespace>My004_cpp_largest_palindrome_product</RootNamespace>
+    <ProjectGuid>{04CE7983-E2D3-423C-9F37-6B9CB4BAFDE2}</ProjectGuid>
+    <RootNamespace>My005_cpp_smallest_multiple</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

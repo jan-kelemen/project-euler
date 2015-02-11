@@ -19,3 +19,7 @@ Project Euler (https://projecteuler.net/) soultions in various programming langu
 	*Date: 8-2-2015
 	*Language: C++
 	*Answer: 906609
+####Problem 5: Smallest multiple
+	*Date: 11-2-2015
+	*Language: C++
+	*Answer: 232792560

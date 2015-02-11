@@ -24,5 +24,8 @@
   <ItemGroup>
     <Compile Include="_003_py_largest_prime_factor.py" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="readme.md" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.Common.targets" />
 </Project>
