@@ -24,8 +24,5 @@
   <ItemGroup>
     <Compile Include="_009_py_special_pythagorean_triplet.py" />
   </ItemGroup>
-  <ItemGroup>
-    <Content Include="readme.md" />
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.Common.targets" />
 </Project>

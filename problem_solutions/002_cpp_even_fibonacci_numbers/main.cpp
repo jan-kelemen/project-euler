@@ -26,6 +26,5 @@ int main()
 	for (const auto &i : fibonacci_numbers)
 		sum += i % 2 == 0 ? i : 0;
 	std::cout << "Sum of all even Fibonacci numbers up to 4000000 is: " << sum << std::endl;
-	system("PAUSE");
 	return 0;
 }

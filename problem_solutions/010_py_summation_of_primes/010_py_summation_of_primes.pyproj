@@ -24,8 +24,5 @@
   <ItemGroup>
     <Compile Include="_010_py_summation_of_primes.py" />
   </ItemGroup>
-  <ItemGroup>
-    <Content Include="readme.md" />
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.Common.targets" />
 </Project>

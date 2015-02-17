@@ -34,6 +34,5 @@ int largest_palindrome()
 int main()
 {
 	std::cout << "Largest palindrome product of two 3-digit numbers is: " << largest_palindrome() << std::endl;
-	system("PAUSE");
 	return 0;
 }

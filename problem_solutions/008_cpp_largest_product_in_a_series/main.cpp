@@ -34,6 +34,5 @@ int main()
 			max_sum = sum;
 	}
 	std::cout << max_sum << std::endl;
-	system("PAUSE");
 	return 0;
 }

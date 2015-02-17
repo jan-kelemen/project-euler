@@ -39,7 +39,5 @@ int main()
 		smallest_multiple *= divisor;
 
 	std::cout << smallest_multiple << std::endl;
-
-	system("PAUSE");
 	return 0;
 }

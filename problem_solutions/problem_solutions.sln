@@ -30,6 +30,8 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "010_py_summation_of_primes"
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "011_py_largest_product_in_a_grid", "011_py_largest_product_in_a_grid\011_py_largest_product_in_a_grid.pyproj", "{7B8BFDF5-89EE-4078-A6C9-8A0A34428FCC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "012_cpp_highly_divisible_triangular_number", "012_cpp_highly_divisible_triangular_number\012_cpp_highly_divisible_triangular_number.vcxproj", "{E8DCDFA4-DD02-4C2A-A062-17E1D8FE42B4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -150,6 +152,16 @@ Global
 		{7B8BFDF5-89EE-4078-A6C9-8A0A34428FCC}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{7B8BFDF5-89EE-4078-A6C9-8A0A34428FCC}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{7B8BFDF5-89EE-4078-A6C9-8A0A34428FCC}.Release|Win32.ActiveCfg = Release|Any CPU
+		{E8DCDFA4-DD02-4C2A-A062-17E1D8FE42B4}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{E8DCDFA4-DD02-4C2A-A062-17E1D8FE42B4}.Debug|Mixed Platforms.ActiveCfg = Debug|Win32
+		{E8DCDFA4-DD02-4C2A-A062-17E1D8FE42B4}.Debug|Mixed Platforms.Build.0 = Debug|Win32
+		{E8DCDFA4-DD02-4C2A-A062-17E1D8FE42B4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E8DCDFA4-DD02-4C2A-A062-17E1D8FE42B4}.Debug|Win32.Build.0 = Debug|Win32
+		{E8DCDFA4-DD02-4C2A-A062-17E1D8FE42B4}.Release|Any CPU.ActiveCfg = Release|Win32
+		{E8DCDFA4-DD02-4C2A-A062-17E1D8FE42B4}.Release|Mixed Platforms.ActiveCfg = Release|Win32
+		{E8DCDFA4-DD02-4C2A-A062-17E1D8FE42B4}.Release|Mixed Platforms.Build.0 = Release|Win32
+		{E8DCDFA4-DD02-4C2A-A062-17E1D8FE42B4}.Release|Win32.ActiveCfg = Release|Win32
+		{E8DCDFA4-DD02-4C2A-A062-17E1D8FE42B4}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

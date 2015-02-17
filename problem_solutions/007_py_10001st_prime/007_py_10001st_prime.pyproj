@@ -24,8 +24,5 @@
   <ItemGroup>
     <Compile Include="_007_py_10001st_prime.py" />
   </ItemGroup>
-  <ItemGroup>
-    <Content Include="readme.md" />
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.Common.targets" />
 </Project>

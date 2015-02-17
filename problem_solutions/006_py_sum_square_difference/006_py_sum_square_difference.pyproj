@@ -24,8 +24,5 @@
   <ItemGroup>
     <Compile Include="_006_py_sum_square_difference.py" />
   </ItemGroup>
-  <ItemGroup>
-    <Content Include="readme.md" />
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.Common.targets" />
 </Project>

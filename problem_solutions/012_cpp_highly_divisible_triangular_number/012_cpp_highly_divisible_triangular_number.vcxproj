@@ -11,8 +11,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{588064F2-C5DD-4431-9553-743D14AFACCA}</ProjectGuid>
-    <RootNamespace>My008_cpp_largest_product_in_a_series</RootNamespace>
+    <ProjectGuid>{E8DCDFA4-DD02-4C2A-A062-17E1D8FE42B4}</ProjectGuid>
+    <RootNamespace>My012_cpp_highly_divisible_triangular_number</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
