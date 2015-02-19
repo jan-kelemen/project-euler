@@ -32,6 +32,8 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "011_py_largest_product_in_a
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "012_cpp_highly_divisible_triangular_number", "012_cpp_highly_divisible_triangular_number\012_cpp_highly_divisible_triangular_number.vcxproj", "{E8DCDFA4-DD02-4C2A-A062-17E1D8FE42B4}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "013_py_large_sum", "013_py_large_sum\013_py_large_sum.pyproj", "{F75228D9-617A-49EF-9392-36D32E963417}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -162,6 +164,16 @@ Global
 		{E8DCDFA4-DD02-4C2A-A062-17E1D8FE42B4}.Release|Mixed Platforms.Build.0 = Release|Win32
 		{E8DCDFA4-DD02-4C2A-A062-17E1D8FE42B4}.Release|Win32.ActiveCfg = Release|Win32
 		{E8DCDFA4-DD02-4C2A-A062-17E1D8FE42B4}.Release|Win32.Build.0 = Release|Win32
+		{F75228D9-617A-49EF-9392-36D32E963417}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F75228D9-617A-49EF-9392-36D32E963417}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F75228D9-617A-49EF-9392-36D32E963417}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{F75228D9-617A-49EF-9392-36D32E963417}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{F75228D9-617A-49EF-9392-36D32E963417}.Debug|Win32.ActiveCfg = Debug|Any CPU
+		{F75228D9-617A-49EF-9392-36D32E963417}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F75228D9-617A-49EF-9392-36D32E963417}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F75228D9-617A-49EF-9392-36D32E963417}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{F75228D9-617A-49EF-9392-36D32E963417}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{F75228D9-617A-49EF-9392-36D32E963417}.Release|Win32.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
