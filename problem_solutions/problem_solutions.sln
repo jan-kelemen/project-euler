@@ -34,6 +34,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "012_cpp_highly_divisible_tr
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "013_py_large_sum", "013_py_large_sum\013_py_large_sum.pyproj", "{F75228D9-617A-49EF-9392-36D32E963417}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "014_cpp_longest_collatz_sequence", "014_cpp_longest_collatz_sequence\014_cpp_longest_collatz_sequence.vcxproj", "{3A49132E-FD15-4BD9-96F0-EF3F942CD4BF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -174,6 +176,16 @@ Global
 		{F75228D9-617A-49EF-9392-36D32E963417}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{F75228D9-617A-49EF-9392-36D32E963417}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{F75228D9-617A-49EF-9392-36D32E963417}.Release|Win32.ActiveCfg = Release|Any CPU
+		{3A49132E-FD15-4BD9-96F0-EF3F942CD4BF}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{3A49132E-FD15-4BD9-96F0-EF3F942CD4BF}.Debug|Mixed Platforms.ActiveCfg = Debug|Win32
+		{3A49132E-FD15-4BD9-96F0-EF3F942CD4BF}.Debug|Mixed Platforms.Build.0 = Debug|Win32
+		{3A49132E-FD15-4BD9-96F0-EF3F942CD4BF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3A49132E-FD15-4BD9-96F0-EF3F942CD4BF}.Debug|Win32.Build.0 = Debug|Win32
+		{3A49132E-FD15-4BD9-96F0-EF3F942CD4BF}.Release|Any CPU.ActiveCfg = Release|Win32
+		{3A49132E-FD15-4BD9-96F0-EF3F942CD4BF}.Release|Mixed Platforms.ActiveCfg = Release|Win32
+		{3A49132E-FD15-4BD9-96F0-EF3F942CD4BF}.Release|Mixed Platforms.Build.0 = Release|Win32
+		{3A49132E-FD15-4BD9-96F0-EF3F942CD4BF}.Release|Win32.ActiveCfg = Release|Win32
+		{3A49132E-FD15-4BD9-96F0-EF3F942CD4BF}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
