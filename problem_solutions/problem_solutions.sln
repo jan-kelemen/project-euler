@@ -38,6 +38,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "014_cpp_longest_collatz_seq
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "015_py_lattice_paths", "015_py_lattice_paths\015_py_lattice_paths.pyproj", "{36869EC4-46FA-4CD1-8AFA-24F34CCCFD12}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "016_py_power_digit_sum", "016_py_power_digit_sum\016_py_power_digit_sum.pyproj", "{6B15BCA8-F886-49A1-8ECC-4BD109486DB2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -198,6 +200,16 @@ Global
 		{36869EC4-46FA-4CD1-8AFA-24F34CCCFD12}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{36869EC4-46FA-4CD1-8AFA-24F34CCCFD12}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{36869EC4-46FA-4CD1-8AFA-24F34CCCFD12}.Release|Win32.ActiveCfg = Release|Any CPU
+		{6B15BCA8-F886-49A1-8ECC-4BD109486DB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B15BCA8-F886-49A1-8ECC-4BD109486DB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B15BCA8-F886-49A1-8ECC-4BD109486DB2}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{6B15BCA8-F886-49A1-8ECC-4BD109486DB2}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{6B15BCA8-F886-49A1-8ECC-4BD109486DB2}.Debug|Win32.ActiveCfg = Debug|Any CPU
+		{6B15BCA8-F886-49A1-8ECC-4BD109486DB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B15BCA8-F886-49A1-8ECC-4BD109486DB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B15BCA8-F886-49A1-8ECC-4BD109486DB2}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{6B15BCA8-F886-49A1-8ECC-4BD109486DB2}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{6B15BCA8-F886-49A1-8ECC-4BD109486DB2}.Release|Win32.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
