@@ -26,6 +26,5 @@ int main()
 	auto largest_chain = std::max_element(sequence_lenghts.begin(), sequence_lenghts.end());
 
 	cout << largest_chain - sequence_lenghts.begin() << endl;
-	system("PAUSE");
 	return 0;
 }
