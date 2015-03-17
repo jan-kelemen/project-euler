@@ -42,6 +42,10 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "016_py_power_digit_sum", "0
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "017_cpp_number_letter_counts", "017_cpp_number_letter_counts\017_cpp_number_letter_counts.vcxproj", "{3CDB0F2A-9368-4B9D-B92A-FA534158F721}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "018_py_maximum_path_sum", "018_py_maximum_path_sum\018_py_maximum_path_sum.pyproj", "{D7734804-077F-4F3A-8292-F36B899BFB3C}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "067_py_maximum_path_sum_II", "067_py_maximum_path_sum_II\067_py_maximum_path_sum_II.pyproj", "{C98DC4AB-66D2-4B43-BBB9-A8D597423199}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -222,6 +226,26 @@ Global
 		{3CDB0F2A-9368-4B9D-B92A-FA534158F721}.Release|Mixed Platforms.Build.0 = Release|Win32
 		{3CDB0F2A-9368-4B9D-B92A-FA534158F721}.Release|Win32.ActiveCfg = Release|Win32
 		{3CDB0F2A-9368-4B9D-B92A-FA534158F721}.Release|Win32.Build.0 = Release|Win32
+		{D7734804-077F-4F3A-8292-F36B899BFB3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7734804-077F-4F3A-8292-F36B899BFB3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7734804-077F-4F3A-8292-F36B899BFB3C}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{D7734804-077F-4F3A-8292-F36B899BFB3C}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{D7734804-077F-4F3A-8292-F36B899BFB3C}.Debug|Win32.ActiveCfg = Debug|Any CPU
+		{D7734804-077F-4F3A-8292-F36B899BFB3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7734804-077F-4F3A-8292-F36B899BFB3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7734804-077F-4F3A-8292-F36B899BFB3C}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{D7734804-077F-4F3A-8292-F36B899BFB3C}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{D7734804-077F-4F3A-8292-F36B899BFB3C}.Release|Win32.ActiveCfg = Release|Any CPU
+		{C98DC4AB-66D2-4B43-BBB9-A8D597423199}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C98DC4AB-66D2-4B43-BBB9-A8D597423199}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C98DC4AB-66D2-4B43-BBB9-A8D597423199}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{C98DC4AB-66D2-4B43-BBB9-A8D597423199}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{C98DC4AB-66D2-4B43-BBB9-A8D597423199}.Debug|Win32.ActiveCfg = Debug|Any CPU
+		{C98DC4AB-66D2-4B43-BBB9-A8D597423199}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C98DC4AB-66D2-4B43-BBB9-A8D597423199}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C98DC4AB-66D2-4B43-BBB9-A8D597423199}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{C98DC4AB-66D2-4B43-BBB9-A8D597423199}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{C98DC4AB-66D2-4B43-BBB9-A8D597423199}.Release|Win32.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
