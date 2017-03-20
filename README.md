@@ -1,8 +1,8 @@
-#Project Euler solutions
+# Project Euler solutions
 
 Project Euler (https://projecteuler.net/) soultions in various programming languages
 
-###Solved problems
+### Solved problems
 
 Problem X: Title (Date, Language, Answer)
 
